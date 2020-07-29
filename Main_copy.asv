@@ -1,3 +1,7 @@
+% Tomohiro Shimada
+% Slugsat Science Experiment SubTeam
+
+
 close all;
 clear all;
 clc;

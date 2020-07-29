@@ -1,6 +1,8 @@
-% Frequency Aging Simulation rev1.0 4/10/20
-% Slugsat Science Experiment Subteam
 % Tomohiro Shimada
+% Slugsat Science Experiment SubTeam
+
+% Frequency Aging Simulation
+
 
 %%
 close all;

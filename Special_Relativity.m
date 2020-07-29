@@ -1,6 +1,8 @@
-% Special Relativity Simulations rev1.0 4/24/20
-% Slugsat Science Experiment Subteam
 % Tomohiro Shimada
+% Slugsat Science Experiment SubTeam
+
+% Simulated special/general relativistic effects on CubeSat at an altitude of 800KM
+
 
 %%
 close all;
@@ -10,7 +12,7 @@ clc;
 % Variable Definition
 t = linspace(0,63072000,63072000);
 r_earth = 6378*10^3;
-r_sat = 20000*10^3;
+r_sat = 800*10^3;
 G = 6.67*10^-11;
 M = 5.98*10^24;
 c = 3.0*10^8;

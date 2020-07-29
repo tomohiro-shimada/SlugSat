@@ -1,6 +1,7 @@
+% Tomohiro Shimada
+% Slugsat Science Experiment SubTeam
+
 %Main File for RTC Simulations
-%Science Experiment Subteam
-%Tomohiro Shimada
 
 %%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

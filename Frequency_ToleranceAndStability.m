@@ -1,6 +1,8 @@
-% Frequency Tolerance and Stability Simulation rev1.0 4/10/20
-% Slugsat Science Experiment Subteam
 % Tomohiro Shimada
+% Slugsat Science Experiment SubTeam
+
+% Frequency Tolerance and Stability Simulation 
+
 
 %%
 close all;

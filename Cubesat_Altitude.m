@@ -1,6 +1,8 @@
-% Simulated Craft Altitiude rev1.0 4/17/20
-% Slugsat Science Experiment Subteam
 % Tomohiro Shimada
+% Slugsat Science Experiment SubTeam
+
+% Simulated Craft Altitiude
+
 
 %%
 close all;
